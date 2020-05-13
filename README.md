@@ -17,8 +17,9 @@ The Edge Insights Software(EIS) release package comprises of below ingredients:
   for more details.
 
 * `installer`:
-  This is the EIS installer stack to install docker-ce, docker-compose,
-  and EIS ingredients. Follow [installer/README.md](installer/README.md) for
+  This is the EIS installer stack functioning as a one touch installation for
+  all EIS, it's dependencies and ingredients.
+  Follow [installer/README.md](installer/README.md) for
   more details.
 
 * `training-and-learning-suite`:
