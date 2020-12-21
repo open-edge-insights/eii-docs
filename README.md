@@ -16,12 +16,6 @@ The Edge Insights Software(EIS) release package comprises of below ingredients:
   the systems with EIS. Follow [manageability/README.md](manageability/README.md)
   for more details.
 
-* `installer`:
-  This is the EIS installer stack functioning as a one touch installation for
-  all EIS, it's dependencies and ingredients.
-  Follow [installer/README.md](installer/README.md) for
-  more details.
-
 * `training-and-learning-suite`:
   This is the EIS Training and Learning Suite(TLS) stack. It provides the interface
   to do the deep learning model training with user data set for EIS inferencing.
