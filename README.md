@@ -3,7 +3,7 @@
 The Edge Insights Software(EIS) release package comprises of below ingredients:
 
 * `Docs`:
-  This directory has the release notes and the user guide for a given EIS
+  This directory has the release notes, user guide and API reference guide for a given EIS
   release package
 
 * `IEdgeInsights`:
