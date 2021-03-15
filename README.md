@@ -21,8 +21,3 @@ The Edge Insights Software(EIS) release package comprises of below ingredients:
   to do the deep learning model training with user data set for EIS inferencing.
   Follow [training-and-learning-suite/readme.md](training-and-learning-suite/readme.md)
   for more details.
-
-* `orchestrator`:
-  This is the EIS orchestrator stack. It helps in deployment, orchestration and
-  management of the `EIS industrial insights stack` services across nodes.
-  Follow [orchestrator/README.md](orchestrator/README.md) for more details.
